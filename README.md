@@ -1,4 +1,4 @@
-# Emulator
+# CPPEMU
 A simple emulator for a instruction set i made up.
 
 This is a simple emulator for a instruction set i made up. It is not meant to be a real emulator, but rather a fun project I made.
