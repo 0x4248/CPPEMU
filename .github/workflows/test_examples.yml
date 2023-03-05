@@ -1,0 +1,23 @@
+name: Test examples CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: make init
+      run: make init
+    - name: make compile
+      run: make compile
+    - name: run add.bin
+      run: ./build/emulator examples/add.bin
+    - name:
+      run: ./build/emulator examples/sub.bin
