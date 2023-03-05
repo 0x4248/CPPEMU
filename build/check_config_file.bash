@@ -1,4 +1,3 @@
-# checks if .config exists
 if [ -f .config ]; then
 exit 0
 fi
