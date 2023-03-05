@@ -3,6 +3,8 @@ A simple emulator for a instruction set i made up.
 
 This is a simple emulator for a instruction set i made up. It is not meant to be a real emulator, but rather a fun project I made.
 
+I have also made a compiler for CPUEMU which compiles a readable assembly like code to CPPEMU bytes. [Check it out here](https://github.com/awesomelewis2007/CPPEMU-Compiler)
+
 ## How to use 
 To use then emulator you need the emulator and a file with the instructions. The emulator takes the file as an argument. The file should be a text file with the instructions in it. The instructions should be separated by a newline. The emulator will then execute the instructions in the order they are in the file.
 
