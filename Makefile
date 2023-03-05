@@ -1,3 +1,18 @@
+# Emulator
+# A simple emulator for a instruction set i made up.
+# Github: https://www.github.com/awesomelewis2007/emulator
+# By: awesomelewis2007
+
+
+# How to build:
+# 1. Run `make config` to create the config file.
+# 2. Run `make` to build the emulator.
+# 3. Run `make run` to run the emulator.
+# 4. Run `make clean` to clean the build files.
+# 5. Run `make clean_config` to clean the config file.
+
+# For more infomation see the README.md file.
+
 CC = g++
 CFLAGS = -std=c++17
 SRC = src/main.cpp
