@@ -1,7 +1,8 @@
-// Emulator
-// A simple emulator for a instruction set i made up.
-// Github: https://www.github.com/awesomelewis2007/emulator
-// By: awesomelewis2007
+/* Emulator
+ * A simple emulator for a instruction set i made up.
+ * Github: https://www.github.com/awesomelewis2007/emulator
+ * By: awesomelewis2007
+*/
 
 #include <iostream>
 #include <fstream>
