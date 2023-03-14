@@ -1,9 +1,8 @@
-// Nice verbose
-// A simple header file to create nice verbose output.
-////////////////////////////////////////////////////////////////////////////////////////////////////
-// By: awesomelewis2007
-// GitHub: https://www.github.com/awesomelewis2007/nice_verbose
-////////////////////////////////////////////////////////////////////////////////////////////////////
+/* Nice verbose
+ * A simple header file to create nice verbose output.
+ * By: awesomelewis2007
+ * GitHub: https://www.github.com/awesomelewis2007/nice_verbose
+*/
 
 #ifndef VERBOSE
 #define VERBOSE
