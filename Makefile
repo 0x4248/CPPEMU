@@ -1,7 +1,7 @@
 # Emulator
 # A simple emulator for a instruction set i made up.
 # Github: https://www.github.com/awesomelewis2007/emulator
-# By: awesomelewis2007
+# By: Lewis Evans
 
 
 # How to build:
