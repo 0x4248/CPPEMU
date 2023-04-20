@@ -1,6 +1,7 @@
 # Emulator
 # A simple emulator for a instruction set i made up.
 # Github: https://www.github.com/awesomelewis2007/emulator
+# Licence: GPL-v3.0
 # By: Lewis Evans
 
 
