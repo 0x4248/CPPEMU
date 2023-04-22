@@ -1,7 +1,8 @@
 /* Nice verbose
  * A simple header file to create nice verbose output.
- * By: Lewis Evans
  * GitHub: https://www.github.com/awesomelewis2007/nice_verbose
+ * Licence: GPL-3.0
+ * By: Lewis Evans
 */
 
 #ifndef VERBOSE
