@@ -73,3 +73,7 @@ There are many instructions that the emulator can execute. The instructions are 
 0xBC Print the value of register C
 0xBD Print the value of register D
 ```
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
