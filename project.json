@@ -1,0 +1,15 @@
+{
+    "name": "CPPEMU",
+    "description": "A simple emulator for a instruction set i made up.",
+    "version": "",
+    "main_file": "src/main.cpp",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/CPPEMU",
+    "email": "none",
+    "languages": [
+        "python",
+        "c++"
+    ],
+    "actions": {}
+}
