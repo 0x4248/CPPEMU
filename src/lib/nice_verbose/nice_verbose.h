@@ -1,6 +1,6 @@
 /* Nice verbose
  * A simple header file to create nice verbose output.
- * GitHub: https://www.github.com/awesomelewis2007/nice_verbose
+ * GitHub: https://www.github.com/lewisevans2007/nice_verbose
  * Licence: GNU General Public License v3.0
  * By: Lewis Evans
  */
