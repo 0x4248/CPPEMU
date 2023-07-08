@@ -74,6 +74,6 @@ There are many instructions that the emulator can execute. The instructions are 
 0xBD Print the value of register D
 ```
 
-## License
+## Licence
 
 This project is licensed under the GPL-3.0 License - see the [LICENCE](LICENCE) file for details
