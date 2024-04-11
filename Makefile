@@ -1,8 +1,8 @@
 # Emulator
 # A simple emulator for a instruction set i made up.
-# Github: https://www.github.com/lewisevans2007/emulator
+# Github: https://www.github.com/0x4248/emulator
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 
 # How to build:
